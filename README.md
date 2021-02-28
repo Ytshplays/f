@@ -1,1 +1,2 @@
-# Animated-Trex-Runner-Game
+# TrexShreyRushank
+Will use it in Thunkable
